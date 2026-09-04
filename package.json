@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pg": "^8.23.0"
+  },
+  "name": "academia-servicios-alumnos",
+  "version": "1.0.0",
+  "description": "Repositorio Práctica 1 JD7",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfca4473-ship-it/academia-servicios-alumnos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lfca4473-ship-it/academia-servicios-alumnos/issues"
+  },
+  "homepage": "https://github.com/lfca4473-ship-it/academia-servicios-alumnos#readme"
+}
